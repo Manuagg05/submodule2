@@ -1,0 +1,3 @@
+[submodule "git-workshop"]
+	path = git-workshop
+	url = https://github.com/Manuagg05/git-workshop.git
